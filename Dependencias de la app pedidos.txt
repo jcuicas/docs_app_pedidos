@@ -1,0 +1,23 @@
+===============================
+Dependencias de la app pedidos
+===============================
+
+dropdown_button2:
+==================
+
+El widget principal del botón desplegable de Flutter con un menú desplegable constante y muchas otras opciones que puedes personalizar según tus necesidades.
+
+mask_text_input_formatter:
+===========================
+
+El paquete proporciona TextInputFormatter para TextField y TextFormField que dan formato a la entrada mediante una máscara determinada.
+
+intl:
+======
+
+Proporciona funciones de internacionalización y localización, incluida la traducción de mensajes, plurales y géneros, formato y análisis de fecha/número y texto bidireccional.
+
+uuid:
+======
+
+Generador y analizador de UUID (Identificador Único Universal) para Dart.

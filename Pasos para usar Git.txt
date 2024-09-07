@@ -1,0 +1,35 @@
+========================================
+	Pasos para usar Git
+========================================
+
+1.- Lo Primero es Instalar Git. Para verificar que está instalado: git --version   
+
+2.- git config --global user.name "Tu Nombre"
+
+3.- git config --global user.email "ejemplo@email.com"
+
+4.- git init
+
+5.- git add .
+
+6.- git commit -m "primer commit"
+
+7.- Crea un nuevo repositorio en tu cuenta de GitHub
+
+8.- git remote add origin https://github.com/jcuicas/proyectoHTMX.git
+
+9.- git branch -M main
+
+10.- git push -u origin main
+
+======================================
+Actualizar Repositorio Segundo commit
+======================================
+
+1.- git add .
+
+2.- git commit -m "segundo commit"
+
+3.- git branch -M main
+
+4.- git push -u origin main
